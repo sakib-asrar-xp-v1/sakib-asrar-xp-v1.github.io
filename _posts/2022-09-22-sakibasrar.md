@@ -7,3 +7,6 @@ published: true
 ---
 
 ## Hello
+
+1. Why MindMapping?
+Mind maping helps visualize ideas and is easy to organize your thoughts in a branch pattern where all seconday ideas branch out from the core concept/topic.
