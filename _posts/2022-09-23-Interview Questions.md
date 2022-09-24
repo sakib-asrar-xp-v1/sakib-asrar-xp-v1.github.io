@@ -1,6 +1,6 @@
 ---
-title: I am sakib  
-date: 2022-09-23 18:27:00 +0600
+title: Interview questions
+date: 2022-09-22 18:27:00 +0600
 catagory: [new, experiment]
 tags: [new,exp,random]
 published: true
@@ -25,7 +25,7 @@ Whiteboard exams happen during technical job interviews where a company provides
 7. How brain works?
 The physical brain contains billions of nerve cells which is cordinated in pattern to provide funtions in our daily life such as thoughts, sensation, behaviour, emotion and movement. The psychological part is mostly still a big mystery for mankind.
 8. How memorization works?
-The brain nerve cells produces special patterns called synapses and firing those synapses helps us remember things. 
+The brain nerve cells produces special patterns called synapses and firing those synapses helps us remember things.
 9. How can you help?
 I adapt to change.
 I have creative problem solving skill.
